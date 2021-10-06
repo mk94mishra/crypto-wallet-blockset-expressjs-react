@@ -1,0 +1,29 @@
+{
+  "name": "wallet-backend-with-blocksetapi",
+  "version": "1.0.0",
+  "description": "backend intract with blocksetapi and wallet frontend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "bip32": "^2.0.6",
+    "bip39": "^3.0.4",
+    "bitcore-lib": "^8.25.10",
+    "bitcore-mnemonic": "^8.25.10",
+    "cors": "^2.8.5",
+    "ethereumjs-tx": "^2.1.2",
+    "ethers": "^5.4.7",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "key-encoder": "^2.0.3",
+    "mysql2": "^2.3.0",
+    "pg": "^8.7.1",
+    "request": "^2.88.2",
+    "sequelize": "^6.6.5",
+    "web3": "^1.5.2"
+  }
+}
